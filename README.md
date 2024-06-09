@@ -4,7 +4,8 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosapride&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mosapride&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-なぜか、JavaScriptが多い。ここ数年はTypeScriptばっかりで、JavaScriptは触っていない。
+JavaScriptが異常に多い理由は、昔のリポジトリでpublicディレクトリにmoduleを直接いれてcommitしていたのが原因みたい。  
+ここ数年はTypeScriptばっかりで、JavaScriptは触っていない。
 
 ## プロフィール
 
@@ -36,7 +37,7 @@ update: 2024/06
 
 |TypeScript|Python|Tool|
 |---|---|---|
-|Angular|FastAI|VS Code|
+|Angular|FastAPI|VS Code|
 |NextJS|Llamaindex|Docker|
 |NestJS|Langchain|github|
 |||Figma|
